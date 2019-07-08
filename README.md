@@ -7,3 +7,5 @@ XiaoMi：https://github.com/MiCode/Xiaomi_Kernel_OpenSource
 OPPO：https://github.com/oppo-source?tab=repositories  
 MeiZu：https://github.com/meizuosc  
 oneplus：https://github.com/OnePlusOSS/android  
+
+The diff tools we used is meld(http://meldmerge.org/)
